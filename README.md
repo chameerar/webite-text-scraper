@@ -60,7 +60,7 @@ The script relies on the following environment variables:
 ### Example:
 Set the environment variables directly or create a .env file with the following content:
 ```
-WEBSITE_URL=https://mirajabeysekara.wixsite.com/website
+WEBSITE_URL=https://www.tfw2005.com/boards/threads/optimus-prime-inspirational-quote-thread.1033030
 WEBHOOK_URL=https://your-webhook-url-here.com
 EXCLUDED_TEXT="advertisement,terms and conditions,privacy policy,signup"
 QUOTED_BY="Optimus Prime"
@@ -69,7 +69,7 @@ QUOTED_BY="Optimus Prime"
 ## How to Run
 1. Set Environment Variables:
 ```bash
-export WEBSITE_URL=https://mirajabeysekara.wixsite.com/website \
+export WEBSITE_URL=https://www.tfw2005.com/boards/threads/optimus-prime-inspirational-quote-thread.1033030 \
 export WEBHOOK_URL=https://your-webhook-url-here.com \
 export EXCLUDED_TEXT="advertisement,terms and conditions,privacy policy,signup" \
 export QUOTED_BY="Optimus Prime"
